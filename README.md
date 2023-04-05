@@ -27,4 +27,4 @@ print("{:.2f}".format(distance))
 
 
 ### RESULT:
-Thus the distance-between-two-points are successfully executed
+Thus the distance-between-two-points are successfully executed.
